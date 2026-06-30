@@ -94,27 +94,6 @@ Build for production:
 npm run build
 ```
 
----
-
-## 📸 Screenshots
-
-### Login
-
-_Add a screenshot here_
-
-### Dashboard
-
-_Add a screenshot here_
-
-### Projects
-
-_Add a screenshot here_
-
-### Tasks
-
-_Add a screenshot here_
-
----
 
 ## 🎯 Future Improvements
 
